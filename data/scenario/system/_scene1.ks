@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/bgimage/black_back.png"  ]
+[preload  storage="./data/bgimage/BG28a_80.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/talk1.png"  ]
+[preload  storage="./data/fgimage/chara/1/hushime1.png"  ]
+[preload  storage="./data/fgimage/chara/1/hushime2.png"  ]
+[return]

@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/black_back.png"  ]
+[preload  storage="./data/bgimage/mise_omorashi_1.png"  ]
+[preload  storage="./data/bgimage/mise_omorashi_2.png"  ]
+[preload  storage="./data/bgimage/134747277005713227976_BG25b_1280.jpg"  ]
+[return]
